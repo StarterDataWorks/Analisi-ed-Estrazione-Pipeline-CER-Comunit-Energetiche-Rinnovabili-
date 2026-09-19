@@ -125,4 +125,4 @@ L'analisi evidenzia come i soli dati su numero e potenza non siano sufficienti a
     Dati Mancanti: Il dataset non traccia l'anno di installazione dei singoli pannelli né le specifiche tecniche del mix energetico (es. presenza di accumuli o integrazione con biomasse/idroelettrico).
 
  **Mappa Geografica Interattiva:**  
- https://starterdataworks.github.io/dataset-incubator/candidates/gse_cer_elenco/mart/  mappa_cer_interattiva.html
+ https://starterdataworks.github.io/dataset-incubator/candidates/gse_cer_elenco/mart/mappa_cer_interattiva.html
